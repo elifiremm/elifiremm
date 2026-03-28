@@ -52,12 +52,11 @@ Software engineering student focused on building useful applications and solving
   Developed various algorithms and data structure-based solutions.
 
 ---
-
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elifiremm&show_icons=true&theme=radical&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elifiremm&layout=compact&theme=radical&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elifiremm&show_icons=true&theme=radical&count_private=true&include_all_commits=true&v=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elifiremm&layout=compact&theme=radical&v=1" />
 </p>
 ---
 
